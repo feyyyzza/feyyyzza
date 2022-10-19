@@ -5,4 +5,4 @@
 - 👨‍💻 I’m currently learning C#, Phyton and C++.
 - 📚 To be better prepared for the future tomorrows I read books every day. I recommend it to you too.
 - 🎯 Creating Arduino and Raspberry pi projects is one of my favorite hobbies.
-- 📫 If you want to reach me, you can reach me at "..........gmail" mail address.
+- 📫 If you want to reach me, you can reach me at "feyzaozz54@gmail.com" mail address.
