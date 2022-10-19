@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👋 Hi, I’m ........... I'm a Computer Engineer who is extremely open to development and innovations.
+- 👋 Hi, I’m Feyza. I'm a Computer Engineer who is extremely open to development and innovations.
 - 👀 I’m interested in Object Oriented Programing, robotic coding and mobile coding as a programmer and developer.
 - 👨‍💻 I’m currently learning C#, Phyton and C++.
 - 📚 To be better prepared for the future tomorrows I read books every day. I recommend it to you too.
